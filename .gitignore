@@ -1,0 +1,22 @@
+# Build folder
+build/
+Debug/
+Release/
+
+# STM32CubeIDE
+.settings/
+*.launch
+
+# Binary files
+*.o
+*.elf
+*.bin
+*.map
+*.hex
+
+# Temporary
+*.log
+
+# OS
+.DS_Store
+Thumbs.db 
